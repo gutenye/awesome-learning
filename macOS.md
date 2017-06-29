@@ -1,4 +1,7 @@
+# macOS
+
 ## Apps
+> Also check [Cross Platform Apps](Apps.md)
 
 - [iTerm2](https://www.iterm2.com)
 - [MacPass](http://mstarke.github.io/MacPass/)
@@ -6,8 +9,8 @@
 - [Pixa](http://www.pixa-app.com/)
 - [IconJar](https://geticonjar.com/)
 - [Sip](http://sipapp.io/)
-Also see [Cross Platform Apps](https://github.com/gutenye/awesome-learning/blob/master/Apps.md)
 
-## Learning
+# Learning
 
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
+- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line)

@@ -15,9 +15,11 @@
 
 ### Apps
 
+> Also check [Cross Platform Apps](Apps.md)
+
 - [fcitx-sogoupinyin](https://aur.archlinux.org/packages/fcitx-sogoupinyin/)
 - [youdao-dict](https://aur.archlinux.org/packages/youdao-dict)
-Also see [Cross Platform Apps](https://github.com/gutenye/awesome-learning/blob/master/Apps.md)
+
 
 # Learning
 
