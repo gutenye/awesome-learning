@@ -23,7 +23,7 @@
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
 - [Find Components](https://devarchy.com/react)
-- [Build Components Documentation](https://react-styleguidist.js.org/)
+- [Build Styleguide](https://react-styleguidist.js.org/)
 - [Material Components Web](https://react-mdc.github.io/#/)
 
 ### GraphQL
