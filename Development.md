@@ -2,11 +2,14 @@
 
 |                        |                              |
 |------------------------|------------------------------|
-| Source Code Management | [Git](https://git-scm.com/), [GitHub](https://github.com/), [GitLab](https://gitlab.com/),
+| Project Management     | [Git](https://git-scm.com/), [GitHub](https://github.com/), [GitLab](https://gitlab.com/), [GitLab CI](https://about.gitlab.com/features/gitlab-ci-cd/)
 | UI                     | [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
-| Client-side            | [React](https://facebook.github.io/react/), [React Native](https://facebook.github.io/react-native/)
+| Client-side            | [React](https://facebook.github.io/react/), [React Native](https://facebook.github.io/react-native/), [Flow](https://flow.org/)
 | Server-side            | [Node](https://nodejs.org/en), [GraphQL](http://graphql.org/), [Apollo](http://dev.apollodata.com/tools/), [Sequelize](http://docs.sequelizejs.com/)
 | Database               | [PostgreSQL](https://www.postgresql.org/)
+| Testing                | [Jest](https://facebook.github.io/jest/)
+
+> Also check [Apps](Apps.md)
 
 # Learning
 
@@ -20,12 +23,14 @@
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
 - [Find Components](https://devarchy.com/react)
+- [Build Components Documentation](https://react-styleguidist.js.org/)
 - [Material Components Web](https://react-mdc.github.io/#/)
 
 ### GraphQL
 
 - [Homepage](http://graphql.org/)
 - [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql)
+- [Build API Documentation](https://github.com/2fd/graphdoc)
 
 ### Exercise
 

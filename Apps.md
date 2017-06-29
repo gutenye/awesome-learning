@@ -1,3 +1,5 @@
+> Also check [macOS](macOS.md), [Linux](Linux.md)
+
 # Apps
 
 - [Chrome](https://www.google.com/chrome/browser/desktop/)
