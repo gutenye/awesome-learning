@@ -1,4 +1,5 @@
 # Awesome Learning
+> My highly opinionated list of things for development.
 
 **Table of Content**
 
