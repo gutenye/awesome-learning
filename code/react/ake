@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-PORT=3003 npm start
