@@ -11,10 +11,9 @@
 
 > Also check [Apps](Apps.md)
 
-1. Setup VPN (required by FreeCodeCamp, Google, etc)
-2. Complete FreeCodeCamp exercises
-3. Complete HTML/CSS/JS Project
-4. Complete React Project
+1. Complete FreeCodeCamp exercises (requires VPN)
+2. Complete HTML/CSS/JS Test Project
+3. Complete React/GraphQL Test Project
 
 # Learning
 
