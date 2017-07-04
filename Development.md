@@ -11,11 +11,17 @@
 
 > Also check [Apps](Apps.md)
 
+1. Complete FreeCodeCamp exercises
+2. Complete HTML/CSS/JS Project
+3. Complete React Project
+
 # Learning
 
 - [FreeCodeCamp](http://www.freecodecamp.com/)
 - [Google Developers](https://developers.google.com/web/)
 - [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/Reference)
+- [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Freely programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
 
 ### React
 
@@ -41,7 +47,3 @@
 - [Hacker News](https://news.ycombinator.com/news)
 - [GitHub Trending Repositories](https://github.com/trending)
 - [My Twitter List](https://twitter.com/gutenye/lists/dev/)
-
-### 中文
-
-- [慕课网](http://www.imooc.com/)
