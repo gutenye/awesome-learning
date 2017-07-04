@@ -18,8 +18,9 @@
 # Learning
 
 - [FreeCodeCamp](http://www.freecodecamp.com/)
-- [Google Developers](https://developers.google.com/web/)
 - [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/Reference)
+- [Coursera](https://www.coursera.org/browse/computer-science?languages=en#mobile-and-web-development)
+- [Google Developers](https://developers.google.com/web/)
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Freely programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
 
